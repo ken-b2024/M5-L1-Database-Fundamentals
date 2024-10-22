@@ -1,0 +1,18 @@
+Books,,Authors
+Book ID (PKI),,Author ID (PKI)
+Book Title,,First Name
+Author ID (FK),,Last Name
+Genre,,Birthdate
+ISDN,,
+Publishing Date,,
+Price,,Transactions
+Stock Quantity,,Transaction ID (PKI)
+,,Date
+,,Amount
+,,Customer ID (FK)
+Customers,,Book ID
+Customer ID (PKI),,
+First Name,,
+Last Name,,
+ Email (Unique ID),,
+Phone Number,,
